@@ -1,7 +1,7 @@
 SRH Inventory:
 
 SRH Inventory is a very easy to use inventory management app developed by students at SRH University.  
-It is maintained by Chris Glettenberg, Joseph, Rafi, Faisal and Leo.  
+It is maintained by Chris Glettenberg, Joseph Chirayath Joy, Rafi Benabdennour, Faisal Shamsan and Leo Imeraj.  
 The program is coded using Python and runs on the Streamlit interface with additionally Streamlit plugins, namnely Panda and altair.  
 Using Streamlit and these plugins we are able to easily visualize and edit transaction and inventory data for a small company.
 
