@@ -26,8 +26,6 @@ File Structure:
 inventory.py/
 │── Inventory.py 
 │── requirements.txt
-│── inventory.csv 
-│── transactions.csv
 │── README.md 
 
 Potential Future Changes:
